@@ -10,7 +10,7 @@ object RedshiftIJdbcDemo {
     import java.sql.DriverManager
     props.setProperty("user", "master")
     props.setProperty("password", "Temp1234")
-    val  conn = DriverManager.getConnection("jdbc:redshift://test.cihc4qdcty4q.eu-west-1.redshift.amazonaws.com:5439/testdb?", props)
+    val  conn = DriverManager.getConnection("jdbc:redshift://txxxxxx.xxxxxxxx.eu-west-1.redshift.amazonaws.com:5439/testdb?", props)
 
     // Insert into Redshift table
     val statement = conn.createStatement()
