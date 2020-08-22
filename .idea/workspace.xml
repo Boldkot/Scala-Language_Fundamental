@@ -3,6 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="cdcf5b06-aa1a-40d5-9614-d066a693c301" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/containers/ListExamples.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/containers/ListExamples.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/containers/MapDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/containers/MapDemo.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/BreakStatement.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/BreakStatement.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/ConditionalExpression.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/ConditionalExpression.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/Functions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/Iterations.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/Iterations.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/MoreFunctions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/MoreFunctions.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/PatternMatching.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/intro/PatternMatching.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/dsm/oops/ClassDemo.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/com/dsm/oops/ClassDemo.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,22 +215,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="99" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1595084633021" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1598109720878">
+    <state width="746" height="210" key="GridCell.Tab.0.bottom" timestamp="1598113694701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598109720878" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1598109720878">
+    <state width="746" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598113694701" />
+    <state width="746" height="210" key="GridCell.Tab.0.center" timestamp="1598113694700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598109720878" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1598109720877">
+    <state width="746" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598113694700" />
+    <state width="746" height="210" key="GridCell.Tab.0.left" timestamp="1598113694700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598109720877" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1598109720878">
+    <state width="746" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598113694700" />
+    <state width="746" height="210" key="GridCell.Tab.0.right" timestamp="1598113694701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598109720878" />
+    <state width="746" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598113694701" />
     <state x="249" y="0" key="SettingsEditor" timestamp="1598109974935">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -230,10 +239,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1598109754136" />
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1596656183470">
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1598124264012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1596656183470" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1598124264012" />
     <state x="578" y="329" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598110657452">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -242,5 +251,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="209" y="137" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1595084878420" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1598113457955">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1598113457955" />
   </component>
 </project>
