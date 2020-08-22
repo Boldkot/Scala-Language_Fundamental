@@ -12,7 +12,9 @@ object MyExample {
    println(s"\n")
 
    println(s"\n")
-
+   
+   println(s"This is to check the the fetch mechanism")
+   
 
 //Difference between list and tuple is that tuple can contain data of multiple data types and List can hold only a single data type
 //Difference between list[Any] and tuple is that tuple preserves the data types of the elements
