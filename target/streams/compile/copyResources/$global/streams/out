@@ -1,0 +1,8 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\Images,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\Images)
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\Mid_Cap_Stocks.csv,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\Mid_Cap_Stocks.csv)
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\REL.ser,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\REL.ser)
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\trade.txt,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\trade.txt)
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\Images\ScalaCollectionHierarchy.png,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\Images\ScalaCollectionHierarchy.png)
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\Images\ScalaContainers_1.png,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\Images\ScalaContainers_1.png)
+[debug] 	(C:\Programming\SparkScalaProject\workspace\scala-examples\src\main\resources\Images\ScalaContainers_2.png,C:\Programming\SparkScalaProject\workspace\scala-examples\target\scala-2.11\classes\Images\ScalaContainers_2.png)

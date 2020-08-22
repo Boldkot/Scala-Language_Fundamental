@@ -1,0 +1,23 @@
+run
+runsbt
+run
+^Z
+run
+run com.dsm.intro.Example1_HelloWorld
+run
+run Example5_Map
+run
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/sidhartha.ray/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/sidhartha.ray/Dropbox/Training%20Programs/Spark%20Scala/Code/scala-examples/}scala-examples/products {file:/C:/Users/sidhartha.ray/Dropbox/Training%20Programs/Spark%20Scala/Code/scala-examples/}scala-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/sidhartha.ray/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/sidhartha.ray/Dropbox/Training%20Programs/Spark%20Scala/Code/scala-examples/}scala-examples/products {file:/C:/Users/sidhartha.ray/Dropbox/Training%20Programs/Spark%20Scala/Code/scala-examples/}scala-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/rn/wkknb52j18x8clmz52z8bwmh0000gp/T/sbt-structure.xml; session clear-all
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/_1/tw8ngbm14d9898pywl1lk09n87bj2n/T/sbt-structure.xml; session clear-all
+all {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/products {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/_1/tw8ngbm14d9898pywl1lk09n87bj2n/T/sbt-structure.xml; session clear-all
+all {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/products {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/_1/tw8ngbm14d9898pywl1lk09n87bj2n/T/sbt-structure.xml; session clear-all
+all {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/products {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/_1/tw8ngbm14d9898pywl1lk09n87bj2n/T/sbt-structure.xml; session clear-all
+all {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/products {file:/Users/sidhartha.ray/Documents/workspace/scala-examples/}scala-examples/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo /private/var/folders/_1/tw8ngbm14d9898pywl1lk09n87bj2n/T/sbt-structure.xml; session clear-all
