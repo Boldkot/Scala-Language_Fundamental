@@ -14,6 +14,8 @@ object MyExample {
    println(s"\n")
    
    println(s"This is to check the the fetch mechanism")
+
+   println(s"This is to check the pushing feature mechanism")
    
 
 //Difference between list and tuple is that tuple can contain data of multiple data types and List can hold only a single data type
