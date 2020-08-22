@@ -1,7 +1,7 @@
 package com.dsm.intro
 
 /**
-  * Created by sidhartha.ray on 04-11-2017.
+  * Created by on 14-10-2019.
   */
 object Iterations {
   def main(args: Array[String]): Unit = {
